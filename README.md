@@ -6,6 +6,12 @@ O sistema foi desenvolvido para facilitar a tomada de decisão do cliente, filtr
 
 ---
 
+## 📺 Pitch de Apresentação
+
+Confira a demonstração completa do projeto e a explicação técnica no vídeo abaixo:
+
+[👉 Clique aqui para assistir ao vídeo](https://www.linkedin.com/posts/renato-felipe-martins-silva-856367337_python-datascience-ai-activity-7418065912358117377-6coY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSXrgIBa0TIqo4yDUj8FyJvbHGrMA4c0Yw)
+
 ## 🛠️ Como Instalar e Executar
 
 1. **Instale as dependências necessárias:**
